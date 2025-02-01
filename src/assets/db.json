@@ -1,0 +1,1204 @@
+{
+    "Agumon": {
+        "name": "Agumon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Koromon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Offense must be at the highest stat and also 10 % of max HP",
+        "bonus_condition": "Current Digimon- Tokomon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Pepper Breath",
+        "digivolve_to": [
+            "Meramon",
+            "Monochromon",
+            "Tyranomon",
+            "Greymon",
+            "Centarumon",
+            "Birdramon",
+            "Sukamon",
+            "Nanimon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/agumon.jpg"
+    },
+    "Gabumon": {
+        "name": "Gabumon",
+        "type": "Data",
+        "active_hours": "7:00 - 22:00",
+        "possible_digimon": [
+            "Koromon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Defense or Speed must be at the highest stat",
+        "bonus_condition": "Current Digimon- Koromon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Blue Blaster",
+        "digivolve_to": [
+            "Monochromon",
+            "Drimogemon",
+            "Garurumon",
+            "Ogremon",
+            "Centarumon",
+            "Tyranomon",
+            "Nanimon",
+            "Sukamon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/gabumon.jpg"
+    },
+    "Patamon": {
+        "name": "Patamon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Tokomon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Offense, Strength, or Brains must be at the Highest stats",
+        "bonus_condition": "Current Digimon- Tokomon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Boom Bubble",
+        "digivolve_to": [
+            "Drimogemon",
+            "Tyranomon",
+            "Leomon",
+            "Angemon",
+            "Unimon",
+            "Ogremon",
+            "Nanimon",
+            "Sukamon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/patamon.jpg"
+    },
+    "Biyomon": {
+        "name": "Biyomon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Tokomon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Speed must be at the highest stat and also 10 % of max HP",
+        "bonus_condition": "Current Digimon- Tokomon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Spiral Twister",
+        "digivolve_to": [
+            "Kabuterimon",
+            "Unimon",
+            "Airdramon",
+            "Birdramon",
+            "Kokatorimon",
+            "Nanimon",
+            "Sukamon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/biyomon.jpg"
+    },
+    "Kunemon": {
+        "name": "Kunemon",
+        "type": "Virus",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Koromon",
+            "Tokomon",
+            "Tsunomon",
+            "Tanemon"
+        ],
+        "care_mistakes": "Variable",
+        "weight": "Variable",
+        "condition": "A 50% chance exists to a Digimon to digivolve into this when sleeping at \" Kunemon's Bed \"",
+        "bonus_condition": "N/A",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Electric Thread",
+        "digivolve_to": [
+            "Bakemon",
+            "Kabuterimon",
+            "Kuwagamon",
+            "Vegiemon",
+            "Nanimon",
+            "Sukamon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/kunemon.jpg"
+    },
+    "Palmon": {
+        "name": "Palmon",
+        "type": "Vaccine",
+        "active_hours": "1:00 - 16:00",
+        "possible_digimon": [
+            "Tanemon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Brains must be at the highest stat and also 10 % of max HP",
+        "bonus_condition": "Current Digimon- Tanemon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Poison Ivy",
+        "digivolve_to": [
+            "Ninjamon",
+            "Whamon",
+            "Vegiemon",
+            "Kuwagamon",
+            "Nanimon",
+            "Sukamon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/palmon.jpg"
+    },
+    "Betamon": {
+        "name": "Betamon",
+        "type": "Virus",
+        "active_hours": "7:00 - 22:00",
+        "possible_digimon": [
+            "Tanemon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Defense must be at the highest stat and also 10 % of max HP",
+        "bonus_condition": "Current Digimon- Tanemon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Electric Shock",
+        "digivolve_to": [
+            "Whamon",
+            "Seadramon",
+            "Coelamon",
+            "Shellmon",
+            "Sukamon",
+            "Nanimon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/betamon.jpg"
+    },
+    "Elecmon": {
+        "name": "Elecmon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Tsunomon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Offense or Speed must be at the highest stat",
+        "bonus_condition": "Current Digimon- Tsunomon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Super Thunder Strike",
+        "digivolve_to": [
+            "Leomon",
+            "Bakemon",
+            "Kokatorimon",
+            "Angemon",
+            "Nanimon",
+            "Numemon",
+            "Sukamon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/elecmon.jpg"
+    },
+    "Penguinmon": {
+        "name": "Penguinmon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Tsunomon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Brains or Defense must be at the highest stat",
+        "bonus_condition": "Current Digimon- Tsunomon",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Super Slap",
+        "digivolve_to": [
+            "Whamon",
+            "Frigimon",
+            "Mojyamon",
+            "Garurumon",
+            "Shellmon",
+            "Nanimon",
+            "Sukamon",
+            "Numemon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/penguinmon.jpg"
+    },
+    "Greymon": {
+        "name": "Greymon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Agumon"
+        ],
+        "care_mistakes": "0 to 1",
+        "weight": "30g",
+        "condition": "Offense 100, Defense 100, Speed 100, and Brains 100",
+        "bonus_condition": "Discipline gauge- 90 %",
+        "digivolvin_items": "Grey Claws",
+        "finish_technique": "Mega Flame",
+        "digivolve_to": [
+            "Metal Greymon",
+            "Skull Greymon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/greymon.jpg"
+    },
+    "Tyranomon": {
+        "name": "Tyranomon",
+        "type": "Data",
+        "active_hours": "11:00 - 2:00",
+        "possible_digimon": [
+            "Agumon",
+            "Gabumon",
+            "Patamon"
+        ],
+        "care_mistakes": "4 to 5",
+        "weight": "30g",
+        "condition": "Hp 1000, Defense 100",
+        "bonus_condition": "Battles- 5 or less",
+        "digivolvin_items": "White Fang",
+        "finish_technique": "Blaze Blast",
+        "digivolve_to": [
+            "Metal Greymon",
+            "Mega dramon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "data:image/png;base64,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"
+    },
+    "Angemon": {
+        "name": "Angemon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Patamon",
+            "Elecmon"
+        ],
+        "care_mistakes": "0",
+        "weight": "20g",
+        "condition": "Mp 1000, Brains 100",
+        "bonus_condition": "Current Digimon- Patamon",
+        "digivolvin_items": "White Wings",
+        "finish_technique": "Fist of Fate",
+        "digivolve_to": [
+            "Devimon",
+            "Andromon",
+            "Phonixmon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/angemon.jpg"
+    },
+    "Devimon": {
+        "name": "Devimon",
+        "type": "Virus",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Angemon"
+        ],
+        "care_mistakes": "Variable",
+        "weight": "Variable",
+        "condition": "An Angemon has 50 % chance to Digigivolve to a Devimon when its discipline gauge is below 50 % and it loses a battle",
+        "bonus_condition": "N/A",
+        "digivolvin_items": "Black Wings",
+        "finish_technique": "Death Claw",
+        "digivolve_to": [
+            "Skull Greymon",
+            "Mega Dramon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/devimon.jpg"
+    },
+    "Meramon": {
+        "name": "Meramon",
+        "type": "Data",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Agumon"
+        ],
+        "care_mistakes": "5+",
+        "weight": "20g",
+        "condition": "Offense 100",
+        "bonus_condition": "Battles- 10+",
+        "digivolvin_items": "Fireball",
+        "finish_technique": "Fireball",
+        "digivolve_to": [
+            "Metal Greymon",
+            "Andromon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/meramon.jpg"
+    },
+    "AirDramon": {
+        "name": "AirDramon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Biyomon"
+        ],
+        "care_mistakes": "0 to 1",
+        "weight": "30g",
+        "condition": "Mp 1000, Speed 100, Brains 100",
+        "bonus_condition": "Discipline gauge- 90 %",
+        "digivolvin_items": "Rainbowhorn",
+        "finish_technique": "Spinning Needle",
+        "digivolve_to": [
+            "Mega Dramon",
+            "Phoenixmon",
+            "Vademon"
+        ],
+        "spectial_condition": "A 30 % chance exists to a SeaDramon or Birdamon can Digivolve to AirDramon when they Sleeps with discipline gauge at 100 %, happiness at 100 % and tiredness is at zero",
+        "img": "https://digimon.shadowsmith.com/img/airdramon.jpg"
+    },
+    "Seadramon": {
+        "name": "Seadramon",
+        "type": "Data",
+        "active_hours": "7:00 - 22:00",
+        "possible_digimon": [
+            "Betamon"
+        ],
+        "care_mistakes": "3+",
+        "weight": "30g",
+        "condition": "Hp 1000, Mp 1000",
+        "bonus_condition": "Battles- 5 or less",
+        "digivolvin_items": "Water Bottle",
+        "finish_technique": "Ice Blast",
+        "digivolve_to": [
+            "Mega Dramon",
+            "Mega Seadramon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/seadramon.jpg"
+    },
+    "Kabuterimon": {
+        "name": "Kabuterimon",
+        "type": "Vaccine",
+        "active_hours": "19:00 - 10:00",
+        "possible_digimon": [
+            "Biyomon",
+            "Kunemon"
+        ],
+        "care_mistakes": "0 to 1",
+        "weight": "30g",
+        "condition": "Hp 1000, Offense 100, Defense 100, Speed 100",
+        "bonus_condition": "Current Digimon- Kunemon",
+        "digivolvin_items": "Horn Helmet",
+        "finish_technique": "Electro Shocker",
+        "digivolve_to": [
+            "Metal Mamemon",
+            "Hercules Kabuterimmon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/kabuterimon.jpg"
+    },
+    "Garurumon": {
+        "name": "Garurumon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Gabumon",
+            "Penguinmon"
+        ],
+        "care_mistakes": "0 to 1",
+        "weight": "30g",
+        "condition": "Mp 1000, Speed 100",
+        "bonus_condition": "Discipline gauge- 90 %",
+        "digivolvin_items": "Blue Crystal",
+        "finish_technique": "Howling Blaster",
+        "digivolve_to": [
+            "Skull Greymon",
+            "Mega Seadramon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/garurumon.jpg"
+    },
+    "Frigimon": {
+        "name": "Frigimon",
+        "type": "Vaccine",
+        "active_hours": "11:00 - 2:00",
+        "possible_digimon": [
+            "Penguinmon"
+        ],
+        "care_mistakes": "4 to 5",
+        "weight": "30g",
+        "condition": "Mp 1000, Brains 100",
+        "bonus_condition": "Happiness gauge- 75 %",
+        "digivolvin_items": "Ice Crystal",
+        "finish_technique": "SubZero Ice Punch",
+        "digivolve_to": [
+            "Mamemon",
+            "Metal Mamemon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/frigimon.jpg"
+    },
+    "Birdramon": {
+        "name": "Birdramon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Agumon",
+            "Biyomon"
+        ],
+        "care_mistakes": "3+",
+        "weight": "20g",
+        "condition": "Speed 100",
+        "bonus_condition": "Current Digimon- Biyomon",
+        "digivolvin_items": "Flaming Wings",
+        "finish_technique": "Meteor Wing",
+        "digivolve_to": [
+            "Phoenixmon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/birdramon.jpg"
+    },
+    "Whamon": {
+        "name": "Whamon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Palmon",
+            "Betamon",
+            "Penguinmon"
+        ],
+        "care_mistakes": "2 to 3",
+        "weight": "40g",
+        "condition": "Hp 1000, Brains 100",
+        "bonus_condition": "Discipline gauge- 60 %",
+        "digivolvin_items": "North Star",
+        "finish_technique": "Blasting Spout",
+        "digivolve_to": [
+            "Mamemon",
+            "Mega Seadramon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/whamon.jpg"
+    },
+    "Vegiemon": {
+        "name": "Vegiemon",
+        "type": "Virus",
+        "active_hours": "1:00 - 16:00",
+        "possible_digimon": [
+            "Kunemon",
+            "Palmon"
+        ],
+        "care_mistakes": "5+",
+        "weight": "10g",
+        "condition": "Mp 1000",
+        "bonus_condition": "Happiness gauge- 75 %",
+        "digivolvin_items": "Organic Fertilizer",
+        "finish_technique": "Sweet Breath",
+        "digivolve_to": [
+            "Piximon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/vegiemon.jpg"
+    },
+    "Unimon": {
+        "name": "Unimon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Patamon",
+            "Biyomon"
+        ],
+        "care_mistakes": "2 to 3",
+        "weight": "30g",
+        "condition": "Hp 1000, Speed 100",
+        "bonus_condition": "Battles- 10+",
+        "digivolvin_items": "Unihorn",
+        "finish_technique": "Aerial Attack",
+        "digivolve_to": [
+            "Phoenixmon",
+            "Giromon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/unimon.jpg"
+    },
+    "Centarumon": {
+        "name": "Centarumon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Agumon",
+            "Gabumon"
+        ],
+        "care_mistakes": "2 to 3",
+        "weight": "30g",
+        "condition": "Brains 100",
+        "bonus_condition": "Discipline gauge- 60 %",
+        "digivolvin_items": "Iron Hoof",
+        "finish_technique": "Solar Ray",
+        "digivolve_to": [
+            "Andromon",
+            "Giromon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/centarumon.jpg"
+    },
+    "Ogremon": {
+        "name": "Ogremon",
+        "type": "Virus",
+        "active_hours": "11:00 - 2:00",
+        "possible_digimon": [
+            "Gabummon",
+            "Patamon"
+        ],
+        "care_mistakes": "5+",
+        "weight": "30g",
+        "condition": "Hp 1000, Offense 100",
+        "bonus_condition": "Battles- 15+",
+        "digivolvin_items": "Spike Club",
+        "finish_technique": "Pummel Whack",
+        "digivolve_to": [
+            "Andromon",
+            "Giromon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/ogremon.jpg"
+    },
+    "Bakemon": {
+        "name": "Bakemon",
+        "type": "Virus",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Elecmon",
+            "Tanemon"
+        ],
+        "care_mistakes": "3+",
+        "weight": "20g",
+        "condition": "Mp 1000",
+        "bonus_condition": "Happiness gauge- 75 %",
+        "digivolvin_items": "Torn Tatter",
+        "finish_technique": "Dark Claw",
+        "digivolve_to": [
+            "Skull Greymon",
+            "Giromon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/bakemon.jpg"
+    },
+    "Shellmon": {
+        "name": "Shellmon",
+        "type": "Data",
+        "active_hours": "7:00 - 22:00",
+        "possible_digimon": [
+            "Betamon",
+            "Penguinmon"
+        ],
+        "care_mistakes": "5+",
+        "weight": "40g",
+        "condition": "Hp 1000, Defense 100",
+        "bonus_condition": "Corrent Digimon- Betamon",
+        "digivolvin_items": "Red Shell",
+        "finish_technique": "Hydro Pressure",
+        "digivolve_to": [
+            "Mega Kabuterimon",
+            "Mega Seadramon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/shellmon.jpg"
+    },
+    "Drimogemon": {
+        "name": "Drimogemon",
+        "type": "Data",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Gabumon",
+            "Betamon",
+            "Patamon"
+        ],
+        "care_mistakes": "3+",
+        "weight": "40g",
+        "condition": "Offense 100",
+        "bonus_condition": "Happiness gauge- 75 %",
+        "digivolvin_items": "Steel Drill",
+        "finish_technique": "Drill Spin",
+        "digivolve_to": [
+            "Metal Greymon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/drimogemon.jpg"
+    },
+    "Monochromon": {
+        "name": "Monochromon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Agumon",
+            "Gabumon"
+        ],
+        "care_mistakes": "2 to 3",
+        "weight": "40g",
+        "condition": "Hp 1000, Defense 100, Brains 100",
+        "bonus_condition": "Any Rookie Digimon can Digivolve to Monochremon when its discipline gauge at 100 % and a Defense 500+",
+        "digivolvin_items": "Mono Stone",
+        "finish_technique": "Volcanic Strike",
+        "digivolve_to": [
+            "Metal Greymon",
+            "Metal Mamemon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/monochromon.jpg"
+    },
+    "Kokatorimon": {
+        "name": "Kokatorimon",
+        "type": "Vaccine",
+        "active_hours": "1:00 - 16:00",
+        "possible_digimon": [
+            "Elecmon",
+            "Biyomon"
+        ],
+        "care_mistakes": "3+",
+        "weight": "30g",
+        "condition": "Hp 1000",
+        "bonus_condition": "Current Digimon- Biyomon",
+        "digivolvin_items": "Rooster",
+        "finish_technique": "Frozen Fire Shot",
+        "digivolve_to": [
+            "Piximon",
+            "Phoenixmon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/kokatorimon.jpg"
+    },
+    "Leomon": {
+        "name": "Leomon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Patamon",
+            "Elecmon"
+        ],
+        "care_mistakes": "0 to 1",
+        "weight": "20g",
+        "condition": "Offense 100, Speed 100, Brains 100",
+        "bonus_condition": "Battles- 10+",
+        "digivolvin_items": "Flaming Mane",
+        "finish_technique": "Fist of the Beast King",
+        "digivolve_to": [
+            "Mamemon",
+            "Andromon,Saber Leomon ( ???? )",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/leomon.jpg"
+    },
+    "Kuwagamon": {
+        "name": "Kuwagamon",
+        "type": "Virus",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Kunemon",
+            "Palmon"
+        ],
+        "care_mistakes": "5+",
+        "weight": "30g",
+        "condition": "Hp 1000, Mp 1000, Offense 100, Speed 100",
+        "bonus_condition": "Current Digimon- Kunemon",
+        "digivolvin_items": "Scissor Jaw",
+        "finish_technique": "Scissor Claw",
+        "digivolve_to": [
+            "Piximon",
+            "Mega Kabuterimon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/kuwagamon.jpg"
+    },
+    "Mojyamon": {
+        "name": "Mojyamon",
+        "type": "Vaccine",
+        "active_hours": "1:00 - 16:00",
+        "possible_digimon": [
+            "Penguinmon"
+        ],
+        "care_mistakes": "5+",
+        "weight": "20g",
+        "condition": "Hp 1000, Mp 1000",
+        "bonus_condition": "Battles- 5 or less",
+        "digivolvin_items": "Hari Grower",
+        "finish_technique": "Bone Boomerang",
+        "digivolve_to": [
+            "Mamemon",
+            "Skull Greymon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/mojyamon.jpg"
+    },
+    "Coelamon": {
+        "name": "Coelamon",
+        "type": "Data",
+        "active_hours": "11:00 - 2:00",
+        "possible_digimon": [
+            "Palmon",
+            "Betamon"
+        ],
+        "care_mistakes": "3+",
+        "weight": "30g",
+        "condition": "Defense 100",
+        "bonus_condition": "A Whamon or Shellmon has 30 % to Digivolve to Coelamon when 360 hours have passed since Digivolve from Champion form",
+        "digivolvin_items": "Hard Scale",
+        "finish_technique": "Ice Fist",
+        "digivolve_to": [
+            "Mega Seadramon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://i.pinimg.com/736x/68/1b/8c/681b8cb09008658baae8778137b0a118.jpg"
+    },
+    "Ninjamon": {
+        "name": "Ninjamon",
+        "type": "Data",
+        "active_hours": "1:00 - 16:00",
+        "possible_digimon": [
+            "Palmon"
+        ],
+        "care_mistakes": "0 to 1",
+        "weight": "10g",
+        "condition": "Mp 1000, Offense 100, Speed 100",
+        "bonus_condition": "A Vegiemon has 30 % to Digivolve to Ninjamon after fighting 50+ battles and its discipline gauge is at 100 %",
+        "digivolvin_items": "Koga's Laws",
+        "finish_technique": "Koga Star",
+        "digivolve_to": [
+            "Mamemon",
+            "Metal Mamemon",
+            "Piximon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVIQX3E92NZE9VMGaTFcFwNSolankCa57oA&s"
+    },
+    "Nanimon": {
+        "name": "Nanimon",
+        "type": "Virus",
+        "active_hours": "11:00 - 2:00",
+        "possible_digimon": [
+            "All Rookie Digimon"
+        ],
+        "care_mistakes": "Variable",
+        "weight": "Variable",
+        "condition": "Digivolves when you scold your Digimon ( happiness and discipline gauge must be zero )",
+        "bonus_condition": "N/A",
+        "digivolvin_items": "Sunglasess",
+        "finish_technique": "Poop",
+        "digivolve_to": [
+            "Digitamamon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/nanimon.jpg"
+    },
+    "Sukamon": {
+        "name": "Sukamon",
+        "type": "Virus",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "All Digimon"
+        ],
+        "care_mistakes": "\" Field Poops \" reaches 16 or more",
+        "weight": "variable",
+        "condition": "\" Field Poops \" reaches 16 or more",
+        "bonus_condition": "N/A",
+        "digivolvin_items": "N/a",
+        "finish_technique": "Party Time",
+        "digivolve_to": [
+            "Etemon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/sukamon.jpg"
+    },
+    "Numemon": {
+        "name": "Numemon",
+        "type": "Virus",
+        "active_hours": "7:00 - 22:00",
+        "possible_digimon": [
+            "All rookie Digimon"
+        ],
+        "care_mistakes": "Variable",
+        "weight": "Varable",
+        "condition": "When a Digivolution time ends, a Digimon will into a Numemon when it has met no other Digivolution condition",
+        "bonus_condition": "N/A",
+        "digivolvin_items": "N/A",
+        "finish_technique": "Poop",
+        "digivolve_to": [
+            "Monzaemon",
+            "Vademon"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/numemon.jpg"
+    },
+    "Vademon": {
+        "name": "Vademon",
+        "type": "Virus",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "All Champion Digimon"
+        ],
+        "care_mistakes": "variable",
+        "weight": "variable",
+        "condition": "All Champion Digimon can Digivolve to Vademon after 360 hours elapse as a Champion Digimon",
+        "bonus_condition": "N/A",
+        "digivolvin_items": "Beam GUN",
+        "finish_technique": "Abduction Beam",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/vademon.jpg"
+    },
+    "Digitamamon": {
+        "name": "Digitamamon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Nanimon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "10g",
+        "condition": "Hp 3000, Mp 3000, Offense 100, Defense 400, Speed 400, Brains 300",
+        "bonus_condition": "Battles- 100+",
+        "digivolvin_items": "Mysty Egg",
+        "finish_technique": "Nightmare Syndrome",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/digitamamon.jpg"
+    },
+    "Monzaemon": {
+        "name": "Monzaemon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Numemon"
+        ],
+        "care_mistakes": "0",
+        "weight": "40g",
+        "condition": "Hp 3000, Mp 3000, Offense 300, Defense 300, Speed 300, Brains 300",
+        "bonus_condition": "Battles- 50+",
+        "digivolvin_items": "x Bandage",
+        "finish_technique": "Lovely Attack",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/monzaemon.jpg"
+    },
+    "Etemon": {
+        "name": "Etemon",
+        "type": "Virus",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Sukamon"
+        ],
+        "care_mistakes": "No Limits",
+        "weight": "15g",
+        "condition": "Hp 2000, Mp 1000, Offense 400, Defense 200, Speed 400, Brains 300",
+        "bonus_condition": "Battles- 30+",
+        "digivolvin_items": "Gold Banana",
+        "finish_technique": "Love Serenade",
+        "digivolve_to": [
+            "DIGIVOLVE TO: Metal Etemon ( ???? )"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/etemon.jpg"
+    },
+    "Metal Greymon": {
+        "name": "Metal Greymon",
+        "type": "Virus",
+        "active_hours": "7:00 - 22:00",
+        "possible_digimon": [
+            "Greymon",
+            "Monochromon",
+            "Tyranomon",
+            "Drimogemon"
+        ],
+        "care_mistakes": "10 or less",
+        "weight": "65g",
+        "condition": "Hp 4000, Mp 3000, Offense 500, Defense 500, Speed 300, Brains 300",
+        "bonus_condition": "Battles- 30+",
+        "digivolvin_items": "Metal Parts",
+        "finish_technique": "Giga Scissor Claw",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/metalgreymon.jpg"
+    },
+    "Skull Greymon": {
+        "name": "Skull Greymon",
+        "type": "Virus",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Greymon",
+            "Devimon",
+            "Mojyamon",
+            "Bakemon",
+            "Garurumon"
+        ],
+        "care_mistakes": "10+",
+        "weight": "30g",
+        "condition": "Hp 4000, Mp 6000, Offense 400, Defense 400, Speed 200, Brains 500",
+        "bonus_condition": "Battles- 40+",
+        "digivolvin_items": "Fatal Bone",
+        "finish_technique": "Dark Shot",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/skullgreymon.jpg"
+    },
+    "Mamemon": {
+        "name": "Mamemon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Leomon",
+            "Ninjamon",
+            "Frigimon",
+            "Whamon",
+            "Mojyamon"
+        ],
+        "care_mistakes": "15+",
+        "weight": "5g",
+        "condition": "Offense 400, Defense 300, Speed 300, Brains 400",
+        "bonus_condition": "Happiness gauge- 95 %",
+        "digivolvin_items": "Silver Ball",
+        "finish_technique": "Smiley Bomb",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/mamemon.jpg"
+    },
+    "Metal Mamemon": {
+        "name": "Metal Mamemon",
+        "type": "Data",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Monochromon",
+            "Ninjamon",
+            "Kabuterimon",
+            "Frigimon"
+        ],
+        "care_mistakes": "15 or less",
+        "weight": "10g",
+        "condition": "Offense 500, Defense 400, Speed 400, Brains 400",
+        "bonus_condition": "Happiness gauge- 95 %",
+        "digivolvin_items": "Metal Armor",
+        "finish_technique": "Energy Bomb",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "data:image/jpeg;base64,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"
+    },
+    "Andromon": {
+        "name": "Andromon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Meramon",
+            "Centarumon",
+            "Ogremon",
+            "Leomon",
+            "Angemon"
+        ],
+        "care_mistakes": "5 or less",
+        "weight": "40g",
+        "condition": "Hp 2000, Mp 4000, Offense 200, Defense 400, Speed 200, Brains 400",
+        "bonus_condition": "Battles- 30+",
+        "digivolvin_items": "Cyber Parts",
+        "finish_technique": "Spiral Sword",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/andromon.jpg"
+    },
+    "Giromon": {
+        "name": "Giromon",
+        "type": "Vaccine",
+        "active_hours": "11:00 - 2:00",
+        "possible_digimon": [
+            "Centarumon",
+            "Ogremon",
+            "Bakemon",
+            "Unimon"
+        ],
+        "care_mistakes": "15+",
+        "weight": "5g",
+        "condition": "Offense 400, Speed 300, Brains 300",
+        "bonus_condition": "Happiness gauge-",
+        "digivolvin_items": "",
+        "finish_technique": "",
+        "digivolve_to": [],
+        "spectial_condition": "",
+        "img": "data:image/jpeg;base64,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"
+    },
+    "Mega Dramon": {
+        "name": "Mega Dramon",
+        "type": "Virus",
+        "active_hours": "16:00 - 7:00",
+        "possible_digimon": [
+            "Tyranomon",
+            "Devimon",
+            "AirDramon",
+            "Seadramon"
+        ],
+        "care_mistakes": "10 or less",
+        "weight": "55g",
+        "condition": "Hp 3000, Mp 5000, Offense 500, Defense 300, Speed 400, Brains 400",
+        "bonus_condition": "Battles- 30+",
+        "digivolvin_items": "Mega Hand",
+        "finish_technique": "Rocket Attack",
+        "digivolve_to": [
+            "Giga Dramon ( ???? )"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/megadramon.jpg"
+    },
+    "Piximon": {
+        "name": "Piximon",
+        "type": "Data",
+        "active_hours": "1:00 - 16:00",
+        "possible_digimon": [
+            "Kokatorimon",
+            "Vegiemon",
+            "Ninjamon",
+            "Kuwagamon"
+        ],
+        "care_mistakes": "15+",
+        "weight": "5g",
+        "condition": "Offense 300, Defense 300, Speed 400, Brains 400",
+        "bonus_condition": "Discipline gauge- 95 %",
+        "digivolvin_items": "Small Spear",
+        "finish_technique": "Bit Bomb",
+        "digivolve_to": [
+            "N/A"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/piximon.jpg"
+    },
+    "Mega Seadramon": {
+        "name": "Mega Seadramon",
+        "type": "Data",
+        "active_hours": "7:00 - 22:00",
+        "possible_digimon": [
+            "Seadramon",
+            "Coelamon",
+            "Whamon",
+            "Sehllmon",
+            "Garurumon"
+        ],
+        "care_mistakes": "????",
+        "weight": "????",
+        "condition": "????",
+        "bonus_condition": "????",
+        "digivolvin_items": "Coral Charm",
+        "finish_technique": "Ice Storm",
+        "digivolve_to": [
+            "N/A"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/megaseadramon.jpg"
+    },
+    "Mega Kabuterimon": {
+        "name": "Mega Kabuterimon",
+        "type": "Data",
+        "active_hours": "19:00 - 10:00",
+        "possible_digimon": [
+            "Kabuterimon",
+            "Kuwagamon",
+            "Shellmon"
+        ],
+        "care_mistakes": "????",
+        "weight": "????",
+        "condition": "HP 3500, MP 2500, Offense 250, Defense 250, Brains 200, Speed 200",
+        "bonus_condition": "Happiness gauge- minimum",
+        "digivolvin_items": "Beetle Pearl",
+        "finish_technique": "Giga Blaster",
+        "digivolve_to": [
+            "N/A"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/megakabuterimon.jpg"
+    },
+    "Phoenixmon": {
+        "name": "Phoenixmon",
+        "type": "Vaccine",
+        "active_hours": "4:00 - 19:00",
+        "possible_digimon": [
+            "Birdramon",
+            "Airdramon",
+            "Kokatorimon",
+            "Angemon",
+            "Unimon"
+        ],
+        "care_mistakes": "-3",
+        "weight": "30",
+        "condition": "Hp 4000 - MP 4000 - Speed 400 - Brains 600",
+        "bonus_condition": "dicipline 100",
+        "digivolvin_items": "Red Ruby",
+        "finish_technique": "Crimson Flare",
+        "digivolve_to": [
+            "N/A"
+        ],
+        "spectial_condition": "",
+        "img": "https://digimon.shadowsmith.com/img/phoenixmon.jpg"
+    },
+    "Metal Etemon ( ???? )": {
+        "name": "Metal Etemon ( ???? )",
+        "type": "Virus",
+        "active_hours": "????",
+        "possible_digimon": [
+            "Etemon ( Ultimate Digimon )"
+        ],
+        "care_mistakes": "????",
+        "weight": "????",
+        "condition": "????",
+        "bonus_condition": "????",
+        "digivolvin_items": "Metal Banana ( Refer to my Gameshark list )",
+        "finish_technique": "Dark Network",
+        "digivolve_to": [
+            "N/A"
+        ],
+        "spectial_condition": "",
+        "img": "data:image/jpeg;base64,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"
+    },
+    "Giga Dramon ( ???? )": {
+        "name": "Giga Dramon ( ???? )",
+        "type": "Virus",
+        "active_hours": "????",
+        "possible_digimon": [
+            "Mega Dramon ( Ultimate Digimon )"
+        ],
+        "care_mistakes": "????",
+        "weight": "????",
+        "condition": "????",
+        "bonus_condition": "????",
+        "digivolvin_items": "Giga Hand ( Refer to my Gameshark list )",
+        "finish_technique": "Genocide Attack",
+        "digivolve_to": [
+            "N/A"
+        ],
+        "spectial_condition": "",
+        "img": "data:image/jpeg;base64,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"
+    }
+}
