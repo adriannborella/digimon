@@ -1107,10 +1107,10 @@
             "Sehllmon",
             "Garurumon"
         ],
-        "care_mistakes": "????",
-        "weight": "????",
-        "condition": "????",
-        "bonus_condition": "????",
+        "care_mistakes": "-5",
+        "weight": "30",
+        "condition": "MP - 4000, Offence - 500, Defence - 400, Brains - 400",
+        "bonus_condition": "",
         "digivolvin_items": "Coral Charm",
         "finish_technique": "Ice Storm",
         "digivolve_to": [
